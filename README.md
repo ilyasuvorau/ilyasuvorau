@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Ilya Suvorau
 
 💻 **JavaScript Developer** | 🛠️ Focused on the **React ecosystem**  
-🚀 Exploring **Angular** | 🏗️ Practicing **NestJS**  
+🚀|
+🏗️ Practicing **NestJS**  
 
 ### 🔥 About Me  
 - Passionate about **frontend development** and building dynamic UIs.  
